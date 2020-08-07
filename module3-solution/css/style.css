@@ -1,0 +1,48 @@
+/********** Base styles **********/
+* {
+    box-sizing: border-box;
+    font-family: "Comic Sans MS";
+  }
+  
+  
+  h1{
+  
+      margin-bottom: 1em;
+      margin-top: 1em;
+
+  }
+  
+ #con{
+    border: 1px solid black;
+    background-color:lightcyan;
+    margin-bottom: 1em;
+    padding-bottom: 1em;
+    padding-top: 1em;
+  
+   
+  
+    
+  }
+
+h6{
+    float: center;
+    text-align:center;
+    font-weight: bold;
+
+  }
+
+  
+
+  #selection{
+    border-bottom: 1px solid black;
+    background-color:lightyellow;
+
+    
+  }
+  
+  nav{
+
+    background-color:lightcyan;
+    border-bottom: 1px solid black;
+
+  }
