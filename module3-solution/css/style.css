@@ -1,9 +1,7 @@
-/********** Base styles **********/
 * {
     box-sizing: border-box;
     font-family: "Comic Sans MS";
   }
-  
   
   h1{
   
@@ -18,11 +16,11 @@
     margin-bottom: 1em;
     padding-bottom: 1em;
     padding-top: 1em;
-  
-   
-  
+    padding-left: 1em;
+    padding-right: 1em;
     
   }
+
 
 h6{
     float: center;
