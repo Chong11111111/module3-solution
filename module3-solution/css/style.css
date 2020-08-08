@@ -1,6 +1,8 @@
 * {
     box-sizing: border-box;
     font-family: "Comic Sans MS";
+    margin-left: 1em;
+    margin-right: 1em;
   }
   
   h1{
@@ -44,7 +46,4 @@ h6{
     border-bottom: 1px solid black;
 
   }
-.container-fluid{
-    margin-left:5% !important;
-    margin-right: 5% !important;
-}
+
